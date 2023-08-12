@@ -1,0 +1,28 @@
+
+ Sat 01-05-2021 12:37:36 PM , Error Code =23000 Error Detail =<b>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'islive' cannot be null </b> in file <b>insert_category.php at line no 16</b> in query insert into category (title,photo,islive) values(?,?,?)
+ Sun 16-05-2021 11:51:32 AM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Sun 16-05-2021 11:51:34 AM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Thu 27-05-2021 05:01:19 PM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Thu 27-05-2021 05:01:21 PM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Thu 27-05-2021 05:01:22 PM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Thu 27-05-2021 05:01:23 PM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Thu 27-05-2021 05:01:37 PM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Thu 27-05-2021 05:01:48 PM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Thu 27-05-2021 05:02:00 PM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Sun 30-05-2021 05:32:18 PM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Sun 30-05-2021 05:32:20 PM , Error Code =2002 Error Detail =<b>SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ </b> in file <b>connection.php at line no 18</b> in query 
+ Sun 30-05-2021 09:25:43 PM , Error Code =42S02 Error Detail =<b>SQLSTATE[42S02]: Base table or view not found: 1146 Table 'homades.category' doesn't exist </b> in file <b>categories.php at line no 114</b> in query select id,title,photo,islive from category order by islive desc
+ Sun 30-05-2021 09:28:12 PM , Error Code =42S02 Error Detail =<b>SQLSTATE[42S02]: Base table or view not found: 1146 Table 'homades.category' doesn't exist </b> in file <b>categories.php at line no 114</b> in query select id,title,photo,islive from category order by islive desc
+ Wed 02-06-2021 11:25:42 AM , Error Code =42S02 Error Detail =<b>SQLSTATE[42S02]: Base table or view not found: 1146 Table 'homades.users' doesn't exist </b> in file <b>users.php at line no 80</b> in query select name,email,mobile,city,pincode from users order by id desc
+ Thu 03-06-2021 08:07:17 PM , Error Code =42000 Error Detail =<b>SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1 </b> in file <b>submit_admin.php at line no 9</b> in query 
